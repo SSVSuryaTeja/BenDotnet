@@ -1,0 +1,6 @@
+E:\Dotnet_Ben\Day2\Quiz3\bin\Debug\Quiz3.exe.config
+E:\Dotnet_Ben\Day2\Quiz3\bin\Debug\Quiz3.exe
+E:\Dotnet_Ben\Day2\Quiz3\bin\Debug\Quiz3.pdb
+E:\Dotnet_Ben\Day2\Quiz3\obj\Debug\Quiz3.csproj.CoreCompileInputs.cache
+E:\Dotnet_Ben\Day2\Quiz3\obj\Debug\Quiz3.exe
+E:\Dotnet_Ben\Day2\Quiz3\obj\Debug\Quiz3.pdb

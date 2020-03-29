@@ -1,0 +1,7 @@
+E:\Dotnet_Ben\Day1\EvenOddEx\bin\Debug\EvenOddEx.exe.config
+E:\Dotnet_Ben\Day1\EvenOddEx\bin\Debug\EvenOddEx.exe
+E:\Dotnet_Ben\Day1\EvenOddEx\bin\Debug\EvenOddEx.pdb
+E:\Dotnet_Ben\Day1\EvenOddEx\obj\Debug\EvenOddEx.csprojAssemblyReference.cache
+E:\Dotnet_Ben\Day1\EvenOddEx\obj\Debug\EvenOddEx.csproj.CoreCompileInputs.cache
+E:\Dotnet_Ben\Day1\EvenOddEx\obj\Debug\EvenOddEx.exe
+E:\Dotnet_Ben\Day1\EvenOddEx\obj\Debug\EvenOddEx.pdb

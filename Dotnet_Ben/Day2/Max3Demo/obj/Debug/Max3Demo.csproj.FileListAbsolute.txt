@@ -1,0 +1,7 @@
+E:\Dotnet_Ben\Day2\Max3Demo\bin\Debug\Max3Demo.exe.config
+E:\Dotnet_Ben\Day2\Max3Demo\bin\Debug\Max3Demo.exe
+E:\Dotnet_Ben\Day2\Max3Demo\bin\Debug\Max3Demo.pdb
+E:\Dotnet_Ben\Day2\Max3Demo\obj\Debug\Max3Demo.csprojAssemblyReference.cache
+E:\Dotnet_Ben\Day2\Max3Demo\obj\Debug\Max3Demo.csproj.CoreCompileInputs.cache
+E:\Dotnet_Ben\Day2\Max3Demo\obj\Debug\Max3Demo.exe
+E:\Dotnet_Ben\Day2\Max3Demo\obj\Debug\Max3Demo.pdb

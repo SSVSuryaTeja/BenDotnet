@@ -1,0 +1,6 @@
+E:\Dotnet_Ben\Day2\FactRef\bin\Debug\FactRef.exe.config
+E:\Dotnet_Ben\Day2\FactRef\bin\Debug\FactRef.exe
+E:\Dotnet_Ben\Day2\FactRef\bin\Debug\FactRef.pdb
+E:\Dotnet_Ben\Day2\FactRef\obj\Debug\FactRef.csproj.CoreCompileInputs.cache
+E:\Dotnet_Ben\Day2\FactRef\obj\Debug\FactRef.exe
+E:\Dotnet_Ben\Day2\FactRef\obj\Debug\FactRef.pdb

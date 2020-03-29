@@ -1,0 +1,6 @@
+E:\Dotnet_Ben\Day1\CtoF\bin\Debug\CtoF.exe.config
+E:\Dotnet_Ben\Day1\CtoF\bin\Debug\CtoF.exe
+E:\Dotnet_Ben\Day1\CtoF\bin\Debug\CtoF.pdb
+E:\Dotnet_Ben\Day1\CtoF\obj\Debug\CtoF.csproj.CoreCompileInputs.cache
+E:\Dotnet_Ben\Day1\CtoF\obj\Debug\CtoF.exe
+E:\Dotnet_Ben\Day1\CtoF\obj\Debug\CtoF.pdb

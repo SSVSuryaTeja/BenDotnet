@@ -1,0 +1,6 @@
+E:\Dotnet_Ben\Day2\Factors\bin\Debug\Factors.exe.config
+E:\Dotnet_Ben\Day2\Factors\bin\Debug\Factors.exe
+E:\Dotnet_Ben\Day2\Factors\bin\Debug\Factors.pdb
+E:\Dotnet_Ben\Day2\Factors\obj\Debug\Factors.csproj.CoreCompileInputs.cache
+E:\Dotnet_Ben\Day2\Factors\obj\Debug\Factors.exe
+E:\Dotnet_Ben\Day2\Factors\obj\Debug\Factors.pdb

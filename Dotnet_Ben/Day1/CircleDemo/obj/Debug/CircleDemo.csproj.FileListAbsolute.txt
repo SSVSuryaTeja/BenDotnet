@@ -1,0 +1,6 @@
+E:\Dotnet_Ben\Day1\CircleDemo\bin\Debug\CircleDemo.exe.config
+E:\Dotnet_Ben\Day1\CircleDemo\bin\Debug\CircleDemo.exe
+E:\Dotnet_Ben\Day1\CircleDemo\bin\Debug\CircleDemo.pdb
+E:\Dotnet_Ben\Day1\CircleDemo\obj\Debug\CircleDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet_Ben\Day1\CircleDemo\obj\Debug\CircleDemo.exe
+E:\Dotnet_Ben\Day1\CircleDemo\obj\Debug\CircleDemo.pdb

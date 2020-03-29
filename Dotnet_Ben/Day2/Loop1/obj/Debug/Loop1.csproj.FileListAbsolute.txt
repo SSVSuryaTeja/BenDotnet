@@ -1,0 +1,6 @@
+E:\Dotnet_Ben\Day2\Loop1\bin\Debug\Loop1.exe.config
+E:\Dotnet_Ben\Day2\Loop1\bin\Debug\Loop1.exe
+E:\Dotnet_Ben\Day2\Loop1\bin\Debug\Loop1.pdb
+E:\Dotnet_Ben\Day2\Loop1\obj\Debug\Loop1.csproj.CoreCompileInputs.cache
+E:\Dotnet_Ben\Day2\Loop1\obj\Debug\Loop1.exe
+E:\Dotnet_Ben\Day2\Loop1\obj\Debug\Loop1.pdb

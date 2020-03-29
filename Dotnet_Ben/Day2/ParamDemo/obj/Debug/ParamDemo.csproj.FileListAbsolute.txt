@@ -1,0 +1,6 @@
+E:\Dotnet_Ben\Day2\ParamDemo\bin\Debug\ParamDemo.exe.config
+E:\Dotnet_Ben\Day2\ParamDemo\bin\Debug\ParamDemo.exe
+E:\Dotnet_Ben\Day2\ParamDemo\bin\Debug\ParamDemo.pdb
+E:\Dotnet_Ben\Day2\ParamDemo\obj\Debug\ParamDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet_Ben\Day2\ParamDemo\obj\Debug\ParamDemo.exe
+E:\Dotnet_Ben\Day2\ParamDemo\obj\Debug\ParamDemo.pdb
