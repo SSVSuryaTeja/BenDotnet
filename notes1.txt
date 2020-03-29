@@ -1,0 +1,115 @@
+Looping Control Structures : 
+_____________________________
+
+while loop : This loop executes all the statements repeatedly until
+condition remains true, if the condition remains false, then it comes
+out of the loop. For every loop, basically there are 3 phases known as
+
+	(i) Initialization
+       (ii) Condition
+      (iii) Increment/Decrement 
+
+Initialization performed at the beginning of the loop. 
+
+Condition performed at the conditional part of the loop. 
+
+Increment/Decrement performed before closing the loop. 
+
+syntax :
+_________
+
+while(condition) 
+{
+   statement(s);
+}
+
+Factorial of given number 
+
+for loop : Executes the statements repeatedly until the condition remains true,
+if the condition remains false, then it comes out of the loop.
+
+
+for(initialization;condition;increment/decrement) 
+{
+  statement(s);
+}
+
+Array : 
+
+An array is the finite ordered set of homogeneous elements, means all the 
+elements belongs to same data type. 
+
+int[] a=new int[]{12,5,6,33,55};
+
+a[0]=12;
+a[1]=5;
+a[2]=6;
+a[3]=33;
+a[4]=55;
+
+There are 2 types of memories as 
+
+	1) STACK
+
+	2) HEAP 
+
+Value types will be stored in STACK memory, and reference types will be 
+stored in HEAP memory. 
+
+Types of Parameters : 
+______________________
+
+
+There are 3 types of parameters known as 
+
+1) in : Can be used for input purpose.
+
+2) ref : Can be used for both input/output purpose.
+
+3) out : If you want to return more than one value then we need out.
+
+___________________________________________________________________________________________
+
+
+
+void show(int n) {
+  ...
+  ...
+  ...
+}
+
+
+show();
+show(12);
+show(12,5);
+show(12,5,66);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
