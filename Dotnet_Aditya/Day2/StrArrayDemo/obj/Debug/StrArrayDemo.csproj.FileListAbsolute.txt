@@ -1,0 +1,6 @@
+E:\Dotnet_Aditya\Day2\StrArrayDemo\bin\Debug\StrArrayDemo.exe.config
+E:\Dotnet_Aditya\Day2\StrArrayDemo\bin\Debug\StrArrayDemo.exe
+E:\Dotnet_Aditya\Day2\StrArrayDemo\bin\Debug\StrArrayDemo.pdb
+E:\Dotnet_Aditya\Day2\StrArrayDemo\obj\Debug\StrArrayDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet_Aditya\Day2\StrArrayDemo\obj\Debug\StrArrayDemo.exe
+E:\Dotnet_Aditya\Day2\StrArrayDemo\obj\Debug\StrArrayDemo.pdb

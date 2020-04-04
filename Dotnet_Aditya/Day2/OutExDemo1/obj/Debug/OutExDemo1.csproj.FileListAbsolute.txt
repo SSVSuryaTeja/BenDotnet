@@ -1,0 +1,6 @@
+E:\Dotnet_Aditya\Day2\OutExDemo1\bin\Debug\OutExDemo1.exe.config
+E:\Dotnet_Aditya\Day2\OutExDemo1\bin\Debug\OutExDemo1.exe
+E:\Dotnet_Aditya\Day2\OutExDemo1\bin\Debug\OutExDemo1.pdb
+E:\Dotnet_Aditya\Day2\OutExDemo1\obj\Debug\OutExDemo1.csproj.CoreCompileInputs.cache
+E:\Dotnet_Aditya\Day2\OutExDemo1\obj\Debug\OutExDemo1.exe
+E:\Dotnet_Aditya\Day2\OutExDemo1\obj\Debug\OutExDemo1.pdb

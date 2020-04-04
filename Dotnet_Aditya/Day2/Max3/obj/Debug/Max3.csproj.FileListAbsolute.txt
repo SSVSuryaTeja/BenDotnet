@@ -1,0 +1,6 @@
+E:\Dotnet_Aditya\Day2\Max3\bin\Debug\Max3.exe.config
+E:\Dotnet_Aditya\Day2\Max3\bin\Debug\Max3.exe
+E:\Dotnet_Aditya\Day2\Max3\bin\Debug\Max3.pdb
+E:\Dotnet_Aditya\Day2\Max3\obj\Debug\Max3.csproj.CoreCompileInputs.cache
+E:\Dotnet_Aditya\Day2\Max3\obj\Debug\Max3.exe
+E:\Dotnet_Aditya\Day2\Max3\obj\Debug\Max3.pdb

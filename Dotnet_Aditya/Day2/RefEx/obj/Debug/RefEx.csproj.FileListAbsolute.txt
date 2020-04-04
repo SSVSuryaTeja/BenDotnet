@@ -1,0 +1,6 @@
+E:\Dotnet_Aditya\Day2\RefEx\bin\Debug\RefEx.exe.config
+E:\Dotnet_Aditya\Day2\RefEx\bin\Debug\RefEx.exe
+E:\Dotnet_Aditya\Day2\RefEx\bin\Debug\RefEx.pdb
+E:\Dotnet_Aditya\Day2\RefEx\obj\Debug\RefEx.csproj.CoreCompileInputs.cache
+E:\Dotnet_Aditya\Day2\RefEx\obj\Debug\RefEx.exe
+E:\Dotnet_Aditya\Day2\RefEx\obj\Debug\RefEx.pdb

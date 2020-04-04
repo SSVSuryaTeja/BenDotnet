@@ -1,0 +1,6 @@
+E:\Dotnet_Aditya\Day2\StrDemo\bin\Debug\StrDemo.exe.config
+E:\Dotnet_Aditya\Day2\StrDemo\bin\Debug\StrDemo.exe
+E:\Dotnet_Aditya\Day2\StrDemo\bin\Debug\StrDemo.pdb
+E:\Dotnet_Aditya\Day2\StrDemo\obj\Debug\StrDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet_Aditya\Day2\StrDemo\obj\Debug\StrDemo.exe
+E:\Dotnet_Aditya\Day2\StrDemo\obj\Debug\StrDemo.pdb

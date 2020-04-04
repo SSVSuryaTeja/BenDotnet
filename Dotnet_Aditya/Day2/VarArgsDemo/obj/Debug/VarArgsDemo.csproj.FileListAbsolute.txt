@@ -1,0 +1,6 @@
+E:\Dotnet_Aditya\Day2\VarArgsDemo\bin\Debug\VarArgsDemo.exe.config
+E:\Dotnet_Aditya\Day2\VarArgsDemo\bin\Debug\VarArgsDemo.exe
+E:\Dotnet_Aditya\Day2\VarArgsDemo\bin\Debug\VarArgsDemo.pdb
+E:\Dotnet_Aditya\Day2\VarArgsDemo\obj\Debug\VarArgsDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet_Aditya\Day2\VarArgsDemo\obj\Debug\VarArgsDemo.exe
+E:\Dotnet_Aditya\Day2\VarArgsDemo\obj\Debug\VarArgsDemo.pdb

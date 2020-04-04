@@ -1,0 +1,7 @@
+E:\Dotnet_Aditya\Day2\ArrayDemo1\bin\Debug\ArrayDemo1.exe.config
+E:\Dotnet_Aditya\Day2\ArrayDemo1\bin\Debug\ArrayDemo1.exe
+E:\Dotnet_Aditya\Day2\ArrayDemo1\bin\Debug\ArrayDemo1.pdb
+E:\Dotnet_Aditya\Day2\ArrayDemo1\obj\Debug\ArrayDemo1.csproj.CoreCompileInputs.cache
+E:\Dotnet_Aditya\Day2\ArrayDemo1\obj\Debug\ArrayDemo1.exe
+E:\Dotnet_Aditya\Day2\ArrayDemo1\obj\Debug\ArrayDemo1.pdb
+E:\Dotnet_Aditya\Day2\ArrayDemo1\obj\Debug\ArrayDemo1.csprojAssemblyReference.cache
