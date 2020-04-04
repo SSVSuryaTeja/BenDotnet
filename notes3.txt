@@ -1,0 +1,69 @@
+method overloading : 
+_____________________
+
+The concept of using the same method name w.r.t. Different parameters,
+different data types known as method overloading. Here, the method name
+must be same, but no.of parameters or type of parameters we are passing
+are different. 
+
+Constructors : 
+_______________
+
+A constructor is a special member that which used to initialize the member 
+variables of the class. It is special because it has the same name
+as that of class name. 
+
+Rules : 
+________
+
+   -> It will not contains any return type. 
+
+   -> It will not returna any value. 
+
+   -> It will be invoked automatically once the instance of the class 
+		created. 
+
+   -> A constructor can be overloaded. 
+
+Types of Constructors: 
+_______________________
+
+There are 2 types of constructors known as 
+
+	(i) static constructor : It is called class constructor, it will be invoked automatically before the control reaches the entry point. We cannot overload this constructor. 
+
+       (ii) instance constructor : These are the constructors that which are 
+invoked automatically once the instance of the class created. This constructor
+can be overloaded. 
+
+static variables : 
+
+	These are the variables that which retains values irrespective of type
+of object. 
+
+
+static methods : 
+
+These the methods that which are to be called by using class name.
+
+No object required to call these methods. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
