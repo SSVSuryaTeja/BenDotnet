@@ -1,0 +1,96 @@
+navneeth
+praveen
+sandeep
+pavan
+chandu
+murali
+_______________________________________
+
+DBMS : Database Management System. 
+
+DataBase : It is set of interrelated files stored with minimum redundancy
+to serve many users work concurrently. 
+
+
+1) Data Redundancy : 
+2) Risk to Data Integrity : 
+3) Data Isolation : 
+4) Difficult Access to Data 
+5) Unsatisfactory Security Measures 
+______________________________________________________________
+
+Any database is said to be the perfect RDBMS. If it satisfies 12 CODD rules. 
+
+1) Information Representation
+2) Guaranteed Access
+3) Systematic Treatment of NULL values
+STUDENT(SNO,NAME,SUB1,SUB2,SUB3,TOT,AVEG)
+
+
+4) Data Description Rule
+5) Comprehensive Data Sublanguage
+6) View Updating
+7) High level insert, update and delete 
+8) Physical data independence
+9) Logical data independence
+10) Data Destribution Rule
+11) Non-subversion
+12) Integrity Rule. 
+
+STUDENT(SNO,NAME,SUBJECT,COURSE,FEE,MT1,MT2,TOT,GRADE,CERTIF)
+
+
+1. Display all records from EMP table. 
+
+Ans : select * from emp
+
+2. Display all records whose dept is asp
+
+Ans : select * from emp where dept='asp' { Restrict }
+
+3. Display name,basic from emp table. 
+
+Ans : select nam,basic from emp { PROJECT }
+
+4. Display all records whose basic > 20000
+
+select * from emp where basic > 20000
+
+________________________________________________________________
+
+
+Creating a Table : If you want to create a table, you need to perform the following steps. 
+
+create table table_name
+(
+    field1 data-type,field2 data-type,
+     .... ....
+)
+
+EMPS(empno,nam,basic)
+
+create table emps
+(
+   empno int,nam varchar(16),basic float
+)
+
+
+If you want to get the help about the particular table, then you need the help of 
+
+sp_help table_name 
+
+
+If you want to rename the table, then you need the help of 
+
+sp_rename oldname,newname
+
+
+_______________________________________________________________________
+
+truncate command : This command is used to delete all the records from the table. 
+
+By using delete command also you can delete all the records from the table, then the difference between delete and truncate is, 
+
+by using delete command, you can reget the deleted records if you want, but once u invoke the truncate command you never reget the records. 
+
+
